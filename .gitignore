@@ -1,0 +1,15 @@
+# Ignore everything by default
+
+
+old
+
+
+# --- Ignore common folders and artifacts ---
+myenv/
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.json
+.env
+.DS_Store
